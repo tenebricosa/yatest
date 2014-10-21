@@ -1,0 +1,15 @@
+.progressBar_progressLine {
+	background-image: url('Images/progressBar.png');
+	background-repeat: no-repeat;
+}
+
+.button {
+	width: 84px !important;
+	height: 24px !important;
+}
+
+.button_colorGray {
+	background-image: url('Images/button.png');
+	background-repeat: no-repeat;
+	background-position: -1px -1px;
+}
